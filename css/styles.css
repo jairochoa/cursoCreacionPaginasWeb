@@ -30,5 +30,30 @@ header {
 
 #logo img {
     border-radius: 100%;
-    border: 2px solid white;
+    /*border: 2px solid white;*/
+}
+
+/*Estilos del hero*/
+#hero {
+    position: relative;
+}
+
+#hero #dataScience {
+    display: inline-block;
+    width: 100%;
+    /*opacity: 50%;*/
+}
+
+#hero .information-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#hero .information-container #fotoPersonal {
+    width: 200px;
+}
+
+#hero .information-container #fotoPersonal img {
+    border-radius: 100%;
 }
