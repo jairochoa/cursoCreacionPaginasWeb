@@ -20,8 +20,8 @@ body {
 /*Estilos del header*/
 
 header {
-    background: #1f1f1f;
-    padding: 10px 50px;
+    background:white;
+    padding: 10px 10px;
 }
 
 /*Estilos del hero*/
@@ -97,7 +97,7 @@ main .social-icons .social-icon * {
 header .header-container {
     display: flex;
     box-sizing: border-box;
-    height: 100px;
+    height: 80px;
     justify-content: space-between;
 }
 
@@ -110,6 +110,6 @@ header .columna img {
 header .columna{
     display: flex;
     flex: 0 0  auto;
-    padding: 30px;
+    padding: 10px;
     box-sizing: border-box;
 }
